@@ -3,7 +3,7 @@ import { useState } from 'react'
 import { useNavigate } from 'react-router-dom'
 
 
-const URI = 'http://localhost:8000/blogs/'
+const URI = 'http://35.174.133.157:8000/blogs/'
 
 
 const CompCreateBlog = () => {
